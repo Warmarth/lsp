@@ -1,0 +1,19 @@
+{
+  "name": "lsp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3",
+    "pyright": "^1.1.414",
+    "typescript": "^5.9.3",
+    "typescript-language-server": "^6.0.2",
+    "ws": "^8.22.0"
+  }
+}
